@@ -1,4 +1,4 @@
-# columbia-course-matching
+# Columbia-course-matching
 
 An Agent Skill that helps Columbia University students pick courses for a term
 and check degree progress. It cross-checks the things students otherwise check
