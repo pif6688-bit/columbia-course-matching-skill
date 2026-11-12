@@ -26,6 +26,20 @@ table and two or three conflict-free weekly timetables with backups.
 **Data year: 2026-2027.** Requirements and approval lists change every year.
 Students in other programs can upload their own requirement documents in chat.
 
+## Before you use it
+
+- **The pre-approved elective lists are not included.** They are an internal
+  IEOR department document that requires Columbia sign-in. The first time you
+  ask whether a Business School or other non-IEOR course counts, the skill will
+  ask you to sign in and will read the current list from the department's
+  sheet in your own browser. The google form that IEOR deparment provided. You need to have access to that sheet yourself.
+- **The bundled data is for the 2026-2027 academic year.** Requirements and
+  approval rules change every year, so check which year you are planning for.
+- **Only IEOR department programs are built in.** MSBA requirements are
+  included in full, along with elective approval rules for MSOR, MSIE, MSE and
+  MSFE. If you are in any other program, upload your program's degree
+  requirements and its list of approved courses when you start.
+
 ## Install
 
 Zip the `columbia-course-matching` folder (or use the packaged `.skill` file
